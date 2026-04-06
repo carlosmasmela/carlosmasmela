@@ -59,26 +59,3 @@
 <a href="https://www.linkedin.com/in/carlosmasmela/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candemas97&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Most used Languages</b></summary>
-  <br/>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candemas97&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="candemas97" height="192px"/>
-    </p>
-  <br/>
-
-</details>
